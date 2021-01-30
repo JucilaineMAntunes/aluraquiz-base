@@ -40,4 +40,12 @@
       },
       "borderRadius": "4px"
     }
+  
+  }
+
+  {
+    "dependencies": {
+      "react": "^16.10.0",
+      "react-dom": "^16.10.0"
+    }
   }
