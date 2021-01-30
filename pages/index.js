@@ -1,11 +1,11 @@
 import styled from 'styled-components'
 
 import db from '../db.json';
-import Widget from '../pages/src/components/Widget'
-import QuizLogo from '../pages/src/components/QuizLogo'
-import QuizBackground from '../pages/src/components/QuizBackground'
-import Footer from '../pages/src/components/Footer'
-import GitHubCorner from '../pages/src/components/GitHubCorner'
+import Widget from '../src/components/Widget'
+import QuizLogo from '../src/components/QuizLogo'
+import QuizBackground from '../src/components/QuizBackground'
+import Footer from '../src/components/Footer'
+import GitHubCorner from '../src/components/GitHubCorner'
 
 
 /*
